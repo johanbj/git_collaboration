@@ -6,3 +6,7 @@ With some text
 
 # Yet another section
 With more text
+
+# My favorite color
+Black
+
