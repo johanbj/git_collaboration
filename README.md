@@ -14,6 +14,7 @@ With some more extra interesting text
 Black, like my heart and soul
 Black
 White
+Burgundy
 
 #Yet another line with my favorite color
 Stated previously that it black to express my personality
