@@ -1,3 +1,6 @@
+#Yet another section
+With some more text
+
 # git_collaboration
 Training repo for Git collaboration workshop
 
@@ -10,6 +13,7 @@ With some more extra interesting text
 # My favorite color
 Black, like my heart and soul
 Black
+White
 
 #Yet another line with my favorite color
 Stated previously that it black to express my personality
