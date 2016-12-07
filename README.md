@@ -29,3 +29,7 @@ johantext
 # Yet another section
 
 johantext2
+
+# My favourite colour
+Rainbow
+
